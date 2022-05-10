@@ -45624,7 +45624,7 @@ Source: http://www.schrack.com/.. 5842.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="4017" prefix="IC">
+<deviceset name="CD4017" prefix="IC">
 <description>&lt;B&gt;COUNTER/DIVIDER&lt;/B&gt;</description>
 <gates>
 <gate name="A" symbol="4017-1" x="20.32" y="0"/>
